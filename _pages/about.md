@@ -46,7 +46,7 @@ I am a self-motivated undergraduate (Class of 2023, expected graduation 2027) at
 
 # 🔬 Research Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">National Innovation Project</div><img src='images/Java2Cangjie.png' alt="Cangjie Translation" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">National Innovation Project</div><img src='images/Java2Cangjie.png?v=20260528' alt="Cangjie Translation" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LLM-based Java–Cangjie Code Translation** *(2024.11 – present)*
@@ -62,7 +62,7 @@ I am a self-motivated undergraduate (Class of 2023, expected graduation 2027) at
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/FL.png' alt="Federated Learning" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/FL.png?v=20260528' alt="Federated Learning" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Federated Collaborative Computing** *(2025.09 – present)*
@@ -77,7 +77,7 @@ I am a self-motivated undergraduate (Class of 2023, expected graduation 2027) at
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Self-directed</div><img src='images/multimodel.png' alt="Visual Grounding" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Self-directed</div><img src='images/multimodel.png?v=20260528' alt="Visual Grounding" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multimodal Visual Grounding** *(2026.04)*
@@ -96,7 +96,7 @@ I am a self-motivated undergraduate (Class of 2023, expected graduation 2027) at
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><img src='images/cjgrapht.png' alt="cjgrapht" width="100%"></div>
+    <div><img src='images/cjgrapht.png?v=20260528' alt="cjgrapht" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -110,7 +110,7 @@ Contributed to the [cjgrapht](https://gitcode.com/Cangjie-SIG/cjgrapht) graph da
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><img src='images/movierecomm.png' alt="Movie Recommendation System" width="100%"></div>
+    <div><img src='images/movierecomm.png?v=20260528' alt="Movie Recommendation System" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -124,7 +124,7 @@ Built a full-stack recommendation system using **TensorFlow + FastAPI + Vue3**. 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><img src='images/AIanalysis.png' alt="Smart Talent System" width="100%"></div>
+    <div><img src='images/AIanalysis.png?v=20260528' alt="Smart Talent System" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -147,7 +147,7 @@ Built with **HarmonyOS + Spring Boot**. Designed a multi-source data aggregation
 
 # 🌟 Extracurricular Activities
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/avatar.jpg' alt="Student Leader" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/avatar.jpg?v=20260528' alt="Student Leader" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Student Leader** *(2025 – present)*
@@ -158,7 +158,7 @@ Served as Director of Cultural & Sports Department and Vice-Chair of the Grade C
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/sports.jpg' alt="Arts & Sports" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/sports.jpg?v=20260528' alt="Arts & Sports" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Arts & Sports**
@@ -170,7 +170,7 @@ Served as Director of Cultural & Sports Department and Vice-Chair of the Grade C
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/socialpractice.jpg' alt="Social Practice" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/socialpractice.jpg?v=20260528' alt="Social Practice" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Social Practice**
