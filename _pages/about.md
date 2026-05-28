@@ -147,7 +147,7 @@ Built with **HarmonyOS + Spring Boot**. Designed a multi-source data aggregation
 
 # 🌟 Extracurricular Activities
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/avatar.jpg?v=20260528' alt="Student Leader" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/studentleader.jpg?v=20260528' alt="Student Leader" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Student Leader** *(2025 – present)*
