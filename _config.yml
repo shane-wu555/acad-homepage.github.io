@@ -23,8 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wu Ping (吴平)"
   avatar           : "images/avatar.jpg"
-  bio              : "Undergraduate @ NEU Software Engineering"
+  bio              : "Undergraduate @ NEU · Class of 2027"
   location         : "Shenyang, China"
+  university       : "东北大学 软件学院"
+  major            : "Software Engineering (软件工程)"
+  political        : "中共预备党员"
+  phone            : "18712182210"
   employer         :
   pubmed           : 
   googlescholar    :
@@ -37,7 +41,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "shane-wu555"
   google_plus      :
   keybase          :
   instagram        :
