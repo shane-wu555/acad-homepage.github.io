@@ -10,14 +10,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是[东北大学](https://www.neu.edu.cn)软件学院软件工程专业2023级本科生（中共预备党员）。我的研究兴趣涵盖**联邦学习**、**代码智能**与**多模态视觉理解**。
+我是[东北大学](https://www.neu.edu.cn)软件学院软件工程专业2023级本科生（中共预备党员），预计2027年毕业。我对计算机科学与人工智能的多个方向保持浓厚兴趣，乐于探索新问题，善于自我驱动地推进研究与项目实践。
 
-目前我在赵建喆老师课题组参与科研训练，聚焦联邦协同计算中的异构资源组织与协同训练优化问题；同时作为第二负责人主持国家级大创项目，研究基于大模型的 Java–仓颉代码转译方法。
-
-I am a 2023 undergraduate at the School of Software, [Northeastern University (NEU)](https://www.neu.edu.cn), majoring in Software Engineering. My research interests include **federated learning**, **code intelligence**, and **multimodal visual grounding**.
+I am a self-motivated undergraduate (Class of 2023, expected graduation 2027) at the School of Software, [Northeastern University (NEU)](https://www.neu.edu.cn), majoring in Software Engineering. I have broad interests across computer science and artificial intelligence, and I enjoy exploring new research problems driven by curiosity and initiative.
 
 # 🔥 News
-- *2026.04*: &nbsp;🔍 Started self-directed research on cross-modal fusion-based visual grounding (Two-Stream: ResNet-50 + BERT, evaluated on RefCOCO).
+- *2026.04*: &nbsp;🔍 Started self-directed research on cross-modal fusion-based visual grounding.
 - *2025.11*: &nbsp;🏆 Won **Provincial Second Prize** in the National Undergraduate Mathematics Competition.
 - *2024-2025*: &nbsp;🎉 Awarded the **National Encouragement Scholarship (国家励志奖学金)** and named Outstanding Student (优秀学生) at NEU.
 - *2025.10*: &nbsp;🏆 Won **Provincial Third Prize** in the National Undergraduate Mathematical Modeling Contest.
