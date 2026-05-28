@@ -17,7 +17,7 @@ I am a self-motivated undergraduate (Class of 2023, expected graduation 2027) at
 # 🔥 News
 - *2026.04*: &nbsp;🔍 Started self-directed research on cross-modal fusion-based visual grounding.
 - *2025.11*: &nbsp;🏆 Won **Provincial Second Prize** in the National Undergraduate Mathematics Competition.
-- *2024-2025*: &nbsp;🎉 Awarded the **National Encouragement Scholarship (国家励志奖学金)** and named Outstanding Student (优秀学生) at NEU.
+- *205.10*: &nbsp;🎉 Awarded the **National Encouragement Scholarship (国家励志奖学金)** and named Outstanding Student (优秀学生) at NEU.
 - *2025.10*: &nbsp;🏆 Won **Provincial Third Prize** in the National Undergraduate Mathematical Modeling Contest.
 - *2025.09*: &nbsp;🎓 Joined Prof. Jianzhuo Zhao's research group; started research on federated collaborative computing.
 - *2025.08*: &nbsp;🏆 Won **National Third Prize** (Team Leader) in the National Undergraduate Computer Capability System Design Contest.
@@ -28,23 +28,12 @@ I am a self-motivated undergraduate (Class of 2023, expected graduation 2027) at
 
 # 📖 Educations
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/neu_logo.png' alt="Northeastern University" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Northeastern University (NEU)** · School of Software, Shenyang, China
-
-B.Eng. in **Software Engineering** &nbsp; *2023.09 – present (Expected 2027)*
-
-- 📊 GPA: **3.92 / 5.0** &nbsp;&nbsp; Rank: **45 / 299 (Top 15%)**
-- 🗣️ CET-4: **565** &nbsp;&nbsp; CET-6: **513**
-- 📚 Core Courses: C++ Programming (96), Natural Language Processing (96), Big Data Technologies (93), Probability & Statistics (92)
-
-**Scholarships & Honors**
-- 🏅 *2023-2024* &nbsp; **National Scholarship** · First-Class Scholarship at NEU · Outstanding Student Leader Model
-- 🏅 *2024-2025* &nbsp; **National Encouragement Scholarship** · Second-Class Scholarship at NEU · Outstanding Student
-
-</div>
-</div>
+- *2023.09 – present*, B.Eng. in **Software Engineering**, School of Software, **Northeastern University (NEU)**, Shenyang, China. *(Expected 2027)*
+  - 📊 GPA: **3.92 / 5.0** &nbsp;|&nbsp; Rank: **45 / 299 (Top 15%)**
+  - 🗣️ CET-4: **565** &nbsp;|&nbsp; CET-6: **513**
+  - 📚 Core Courses: C++ Programming (96), Natural Language Processing (96), Big Data Technologies (93), Probability & Statistics (92)
+  - 🏅 *2023-2024* &nbsp; **National Scholarship** · First-Class Scholarship at NEU · Outstanding Student Leader Model
+  - 🏅 *2024-2025* &nbsp; **National Encouragement Scholarship** · Second-Class Scholarship at NEU · Outstanding Student
 
 
 # 📝 Publications & Preprints
