@@ -21,7 +21,7 @@ I am a self-motivated undergraduate (Class of 2023, expected graduation 2027) at
 - *2025.10*: &nbsp;🏆 Won **Provincial Third Prize** in the National Undergraduate Mathematical Modeling Contest.
 - *2025.09*: &nbsp;🎓 Joined Prof. Jianzhuo Zhao's research group; started research on federated collaborative computing.
 - *2025.08*: &nbsp;🏆 Won **National Third Prize** (Team Leader) in the National Undergraduate Computer Capability System Design Contest.
-- *2025.03*: &nbsp;💻 Became a contributor to open-source project [cjgrapht](https://gitcode.com), merging 2600+ lines of code.
+- *2025.03*: &nbsp;💻 Became a contributor to open-source project [cjgrapht](https://gitcode.com/Cangjie-SIG/cjgrapht), merging 2600+ lines of code.
 - *2024.11*: &nbsp;🚀 Joined the National Innovation & Entrepreneurship Training Project on LLM-based Java-to-Cangjie code translation.
 - *2024.10*: &nbsp;🎉 Awarded the **National Scholarship (国家奖学金)** and named Outstanding Student Leader Model (优秀学生干部标兵)at NEU.
 
@@ -80,7 +80,7 @@ I am a self-motivated undergraduate (Class of 2023, expected graduation 2027) at
 
 **cjgrapht Open-Source Contributor** &nbsp; *(GitCode, 2025.03 – 2025.06)*
 
-Contributed to the [cjgrapht](https://gitcode.com) graph data structure library for the Cangjie language ecosystem. Independently developed and optimized graph modules; merged **2600+ lines** of code across multiple PRs. Proficient in open-source collaboration workflows, code review, and complex data structure implementation.
+Contributed to the [cjgrapht](https://gitcode.com/Cangjie-SIG/cjgrapht) graph data structure library for the Cangjie language ecosystem. Independently developed and optimized graph modules; merged **2600+ lines** of code across multiple PRs. Proficient in open-source collaboration workflows, code review, and complex data structure implementation.
 
 `Cangjie` `Graph Algorithm` `Open Source`
   </div>
