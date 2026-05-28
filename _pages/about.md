@@ -19,12 +19,13 @@ I am a 2023 undergraduate at the School of Software, [Northeastern University (N
 # 🔥 News
 - *2026.04*: &nbsp;🔍 Started self-directed research on cross-modal fusion-based visual grounding (Two-Stream: ResNet-50 + BERT, evaluated on RefCOCO).
 - *2025.11*: &nbsp;🏆 Won **Provincial Second Prize** in the National Undergraduate Mathematics Competition.
+- *2024-2025*: &nbsp;🎉 Awarded the **National Encouragement Scholarship (国家励志奖学金)** and named Outstanding Student (优秀学生) at NEU.
 - *2025.10*: &nbsp;🏆 Won **Provincial Third Prize** in the National Undergraduate Mathematical Modeling Contest.
 - *2025.09*: &nbsp;🎓 Joined Prof. Jianzhuo Zhao's research group; started research on federated collaborative computing.
 - *2025.08*: &nbsp;🏆 Won **National Third Prize** (Team Leader) in the National Undergraduate Computer Capability System Design Contest.
 - *2025.03*: &nbsp;💻 Became a contributor to open-source project [cjgrapht](https://gitcode.com), merging 2600+ lines of code.
 - *2024.11*: &nbsp;🚀 Joined the National Innovation & Entrepreneurship Training Project on LLM-based Java-to-Cangjie code translation.
-- *2023-2024*: &nbsp;🎉 Awarded the **National Scholarship (国家奖学金)** and named Outstanding Student Leader Model at NEU.
+- *2024.10*: &nbsp;🎉 Awarded the **National Scholarship (国家奖学金)** and named Outstanding Student Leader Model (优秀学生干部标兵)at NEU.
 
 
 # 📖 Educations
@@ -46,7 +47,7 @@ I am a 2023 undergraduate at the School of Software, [Northeastern University (N
   *Under Review*, 2025.  
   *(Contributed to incentive mechanism understanding, experimental statistics, and visualization analysis.)*
 
-- **Software Copyright**: 速转仓颉-AI 多编程语言智能转译工具软件 V1.0, 2025.
+- **Software Copyright**: 速转仓颉-AI 多编程语言智能转译工具软件 V1.0, 2026.
 
 
 # 🔬 Research Experience
