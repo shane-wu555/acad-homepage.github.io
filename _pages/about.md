@@ -29,7 +29,8 @@ I am a self-motivated undergraduate (Class of 2023, expected graduation 2027) at
 # 📖 Educations
 
 - *2023.09 – present*, B.Eng. in **Software Engineering**, School of Software, **Northeastern University (NEU)**, Shenyang, China. *(Expected 2027)*
-  - 📊 GPA: **3.92 / 5.0**, Rank: **45 / 299 (Top 15%)**, CET-4: **565**, CET-6: **513**
+  - 📊 GPA: **3.92 / 5.0** , Rank: **45 / 299 (Top 15%)**
+  - 🗣️CET-4: **565**, CET-6: **513**
   - 📚 Core Courses: C++ Programming (96), Natural Language Processing (96), Big Data Technologies (93), Probability & Statistics (92)
   - 🏅 *2023-2024* &nbsp; **National Scholarship** · First-Class Scholarship at NEU · Outstanding Student Leader Model
   - 🏅 *2024-2025* &nbsp; **National Encouragement Scholarship** · Second-Class Scholarship at NEU · Outstanding Student
@@ -45,7 +46,7 @@ I am a self-motivated undergraduate (Class of 2023, expected graduation 2027) at
 
 # 🔬 Research Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">National Innovation Project</div><img src='images/research_cangjie.png' alt="Cangjie Translation" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">National Innovation Project</div><img src='images/Java2Cangjie.png' alt="Cangjie Translation" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LLM-based Java–Cangjie Code Translation** *(2024.11 – present)*
@@ -61,7 +62,7 @@ I am a self-motivated undergraduate (Class of 2023, expected graduation 2027) at
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/research_federated.png' alt="Federated Learning" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/FL.png' alt="Federated Learning" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Federated Collaborative Computing** *(2025.09 – present)*
@@ -76,7 +77,7 @@ I am a self-motivated undergraduate (Class of 2023, expected graduation 2027) at
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Self-directed</div><img src='images/research_grounding.png' alt="Visual Grounding" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Self-directed</div><img src='images/multimodel.png' alt="Visual Grounding" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multimodal Visual Grounding** *(2026.04)*
@@ -95,7 +96,7 @@ I am a self-motivated undergraduate (Class of 2023, expected graduation 2027) at
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><img src='images/proj_cjgrapht.png' alt="cjgrapht" width="100%"></div>
+    <div><img src='images/cjgrapht.png' alt="cjgrapht" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -109,7 +110,7 @@ Contributed to the [cjgrapht](https://gitcode.com/Cangjie-SIG/cjgrapht) graph da
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><img src='images/proj_movie.png' alt="Movie Recommendation System" width="100%"></div>
+    <div><img src='images/movierecomm.png' alt="Movie Recommendation System" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -123,7 +124,7 @@ Built a full-stack recommendation system using **TensorFlow + FastAPI + Vue3**. 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><img src='images/proj_talent.png' alt="Smart Talent System" width="100%"></div>
+    <div><img src='images/AIanalysis.png' alt="Smart Talent System" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -146,7 +147,7 @@ Built with **HarmonyOS + Spring Boot**. Designed a multi-source data aggregation
 
 # 🌟 Extracurricular Activities
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/extra_student.png' alt="Student Leader" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/avatar.jpg' alt="Student Leader" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Student Leader** *(2025 – present)*
@@ -157,7 +158,7 @@ Served as Director of Cultural & Sports Department and Vice-Chair of the Grade C
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/extra_arts.png' alt="Arts & Sports" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="Arts & Sports" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Arts & Sports**
@@ -169,7 +170,7 @@ Served as Director of Cultural & Sports Department and Vice-Chair of the Grade C
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/extra_practice.png' alt="Social Practice" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="Social Practice" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Social Practice**
