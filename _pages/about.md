@@ -28,21 +28,28 @@ I am a self-motivated undergraduate (Class of 2023, expected graduation 2027) at
 
 # 📖 Educations
 
-- *2023.09 – present*, B.Eng. in **Software Engineering**, School of Software, **Northeastern University (NEU)**, Shenyang, China.
-  - GPA: **3.92 / 5.0** &nbsp;|&nbsp; Rank: **45 / 299 (Top 15%)**
-  - CET-4: 565 &nbsp;|&nbsp; CET-6: 513
-  - Core Courses: C++ Programming (96), Natural Language Processing (96), Big Data Technologies (93), Probability & Statistics (92)
-  - **Scholarships & Honors**:
-    - 🏅 *2023-2024* &nbsp; **国家奖学金**（National Scholarship）&nbsp;·&nbsp; 东北大学校一等奖学金
-    - 🏅 *2023-2024* &nbsp; 东北大学**优秀学生干部标兵**
-    - 🏅 *2024-2025* &nbsp; **国家励志奖学金**（National Encouragement Scholarship）&nbsp;·&nbsp; 东北大学校二等奖学金
-    - 🏅 *2024-2025* &nbsp; 东北大学**优秀学生**
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/neu_logo.png' alt="Northeastern University" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Northeastern University (NEU)** · School of Software, Shenyang, China
+
+B.Eng. in **Software Engineering** &nbsp; *2023.09 – present (Expected 2027)*
+
+- 📊 GPA: **3.92 / 5.0** &nbsp;&nbsp; Rank: **45 / 299 (Top 15%)**
+- 🗣️ CET-4: **565** &nbsp;&nbsp; CET-6: **513**
+- 📚 Core Courses: C++ Programming (96), Natural Language Processing (96), Big Data Technologies (93), Probability & Statistics (92)
+
+**Scholarships & Honors**
+- 🏅 *2023-2024* &nbsp; **National Scholarship** · First-Class Scholarship at NEU · Outstanding Student Leader Model
+- 🏅 *2024-2025* &nbsp; **National Encouragement Scholarship** · Second-Class Scholarship at NEU · Outstanding Student
+
+</div>
+</div>
 
 
 # 📝 Publications & Preprints
 
-- **Probabilistic Game-Theoretic Incentive Mechanism for Resource-Decoupled Federated Learning**  
-  *Under Review*, 2025.  
+- **Probabilistic Game-Theoretic Incentive Mechanism for Resource-Decoupled Federated Learning**    *Under Review*, 2026.  
   *(Contributed to incentive mechanism understanding, experimental statistics, and visualization analysis.)*
 
 - **Software Copyright**: 速转仓颉-AI 多编程语言智能转译工具软件 V1.0, 2026.
@@ -50,24 +57,50 @@ I am a self-motivated undergraduate (Class of 2023, expected graduation 2027) at
 
 # 🔬 Research Experience
 
-**国家级大创项目 · LLM-based Java–Cangjie Code Translation** *(2024.11 – present)*  
-*第二负责人 | 中期优秀*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">National Innovation Project</div><img src='images/research_cangjie.png' alt="Cangjie Translation" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LLM-based Java–Cangjie Code Translation** *(2024.11 – present)*
+
+*2nd Responsible Person · Rated 中期优秀 at National Level*
+
 - Built a Java–Cangjie code alignment dataset (collection, cleaning, structural annotation, and analysis).
 - Applied **LoRA**-based parameter-efficient fine-tuning on code LLMs; evaluated translation quality and analyzed error samples.
 - Co-developed the system Web interface and authored technical documentation.
-- Outcome: software copyright *速转仓颉-AI 多编程语言智能转译工具软件 V1.0*; rated **中期优秀** at national level.
+- Outcome: software copyright *速转仓颉-AI 多编程语言智能转译工具软件 V1.0*.
 
-**课题组科研训练 · Federated Collaborative Computing** *(2025.09 – present)*  
+`LLM` `LoRA` `Code Intelligence` `Cangjie`
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/research_federated.png' alt="Federated Learning" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Federated Collaborative Computing** *(2025.09 – present)*
+
 *Supervisor: Prof. Jianzhuo Zhao (赵建喆), Northeastern University*
-- Conducting a survey on federated collaborative computing (federated edge learning, end-edge-cloud collaboration, multi-agent coordination); proposed a "data-driven / model-driven / goal-driven" taxonomy.
+
+- Conducting a survey on federated collaborative computing covering federated edge learning, end-edge-cloud collaboration, and multi-agent coordination; proposed a "data-driven / model-driven / goal-driven" taxonomy.
 - Assisting in PGI-RDFL research: three-party incentive mechanism, probabilistic bi-directional selection, and data–compute matching; responsible for experimental statistics and visualization.
 - Paper *Probabilistic Game-Theoretic Incentive Mechanism for Resource-Decoupled Federated Learning* is under review.
 
-**自主探索 · Multimodal Visual Grounding** *(2026.04)*
+`Federated Learning` `Edge Computing` `Incentive Mechanism`
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Self-directed</div><img src='images/research_grounding.png' alt="Visual Grounding" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Multimodal Visual Grounding** *(2026.04)*
+
 - Designed a **Two-Stream** cross-modal network (ResNet-50 + BERT) for image–text visual grounding.
 - Used **GroundingDINO** as baseline; analyzed complementarity in semantic understanding, boundary precision, and inference efficiency.
 - Proposed an IoU-and-confidence arbitration-based fusion method for boundary refinement and semantic optimization.
 - Achieved improvements in inference speed, boundary precision, and interpretability on **RefCOCO** dataset.
+
+`ResNet-50` `BERT` `GroundingDINO` `RefCOCO`
+</div>
+</div>
 
 
 # 💻 Project Experience
@@ -125,11 +158,36 @@ Built with **HarmonyOS + Spring Boot**. Designed a multi-source data aggregation
 
 # 🌟 Extracurricular Activities
 
-- **学生干部** &nbsp; 年级会文体部部长、年级会主席团副主席 *(2025 – 至今)*  
-  负责年级活动组织、协调沟通与学生事务管理，统筹多次年级文体活动。
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/extra_student.png' alt="Student Leader" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- **体育竞技** &nbsp; 参加两届东北大学校运动会，斩获 **4银3铜**。
+**Student Leader** *(2025 – present)*
 
-- **文艺活动** &nbsp; 参加两届校一二·九合唱比赛，分别荣获**一等奖**和**二等奖**。
+Served as Director of Cultural & Sports Department and Vice-Chair of the Grade Council. Responsible for organizing grade-level events, coordinating communications, and managing student affairs across multiple large-scale activities.
 
-- **社会实践** &nbsp; 累计参加 **4次** 社会实践活动，深入基层开展调研与志愿服务。
+`Leadership` `Event Organization` `Communication`
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/extra_arts.png' alt="Arts & Sports" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Arts & Sports**
+
+- 🏅 Participated in two NEU Track & Field Meetings, winning **4 Silver** and **3 Bronze** medals.
+- 🎵 Participated in two editions of the NEU December 9th Choral Competition, winning **1st Prize** and **2nd Prize** respectively.
+
+`Athletics` `Choral Performance` `Team Spirit`
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/extra_practice.png' alt="Social Practice" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Social Practice**
+
+Participated in **4** social practice programs, conducting grassroots research and volunteer service activities, gaining hands-on experience in community engagement and social responsibility.
+
+`Volunteer` `Community` `Field Research`
+</div>
+</div>
