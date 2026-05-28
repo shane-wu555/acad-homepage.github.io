@@ -158,7 +158,7 @@ Served as Director of Cultural & Sports Department and Vice-Chair of the Grade C
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="Arts & Sports" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/sports.jpg' alt="Arts & Sports" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Arts & Sports**
@@ -170,7 +170,7 @@ Served as Director of Cultural & Sports Department and Vice-Chair of the Grade C
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/500x300.png' alt="Social Practice" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/socialpractice.jpg' alt="Social Practice" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Social Practice**
