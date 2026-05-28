@@ -29,8 +29,7 @@ I am a self-motivated undergraduate (Class of 2023, expected graduation 2027) at
 # 📖 Educations
 
 - *2023.09 – present*, B.Eng. in **Software Engineering**, School of Software, **Northeastern University (NEU)**, Shenyang, China. *(Expected 2027)*
-  - 📊 GPA: **3.92 / 5.0** &nbsp;|&nbsp; Rank: **45 / 299 (Top 15%)**
-  - 🗣️ CET-4: **565** &nbsp;|&nbsp; CET-6: **513**
+  - 📊 GPA: **3.92 / 5.0**, Rank: **45 / 299 (Top 15%)**, CET-4: **565**, CET-6: **513**
   - 📚 Core Courses: C++ Programming (96), Natural Language Processing (96), Big Data Technologies (93), Probability & Statistics (92)
   - 🏅 *2023-2024* &nbsp; **National Scholarship** · First-Class Scholarship at NEU · Outstanding Student Leader Model
   - 🏅 *2024-2025* &nbsp; **National Encouragement Scholarship** · Second-Class Scholarship at NEU · Outstanding Student
